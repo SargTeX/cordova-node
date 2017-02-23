@@ -1,0 +1,8 @@
+{
+	"name": "cordova-node",
+	"version": "0.1.0",
+	"dependencies": {
+		"async": "*",
+		"pug": "2.0.0-alpha6"
+	}
+}
